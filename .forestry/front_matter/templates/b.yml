@@ -28,4 +28,5 @@ fields:
     name: author
     label: author
 pages:
+- content/a-folder/title.md
 - content/page1.md
